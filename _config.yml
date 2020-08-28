@@ -9,7 +9,7 @@ twitter:
 github: "https://github.com/dima618"
 
 # Site config
-baseurl: "/aboutme"
+baseurl: "dima618.github.io/aboutme"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
