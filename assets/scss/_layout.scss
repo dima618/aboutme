@@ -43,13 +43,13 @@
 	}
 }
 
-// .intro,
+.currentposition,
+.intro,
 .projects {
 	padding: 0 0 5rem;
 }
 
 .intro {
-	padding: 10rem 0 0;
 	@media (min-width: $breakpoint-medium) {
 		p {
 			font-size: 2.7rem;
