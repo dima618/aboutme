@@ -38,7 +38,7 @@
 	z-index: 1;
 
 	@media (min-width: $breakpoint-medium) {
-		padding: 10rem 0 0;//21rem 0 0;
+		padding: 15rem 0 0;//21rem 0 0;
 		margin-bottom: 23.42rem;
 	}
 }
@@ -49,7 +49,7 @@
 }
 
 .intro {
-	padding: 0 0 10rem;
+	padding: 10rem 0 0;
 	@media (min-width: $breakpoint-medium) {
 		p {
 			font-size: 2.7rem;
