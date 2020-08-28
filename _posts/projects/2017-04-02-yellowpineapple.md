@@ -7,11 +7,11 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
+  title: "SVG to Vectors Converter"
+  type: "Library to convert an SVG to a list of vectors"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "C#, .NET Framework"
 
 agency:
   title: "Yellow Pineapple Co"
