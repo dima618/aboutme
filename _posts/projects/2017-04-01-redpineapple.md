@@ -7,11 +7,11 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
+  title: "Anti Juulinator"
+  type: "The high tech solution to nicotine addiction"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "C#, Arduino"
 
 agency:
   title: "Red Pineapple Co"
