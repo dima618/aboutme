@@ -9,9 +9,9 @@ meta:
 project:
   title: "Anti Juulinator"
   type: "The high tech solution to nicotine addiction"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/dima618/JuulRecognizer"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "C#, Arduino"
+  tech: "C#, Arduino, OpenCV"
 
 agency:
   title: "Red Pineapple Co"
@@ -29,4 +29,7 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>"How can we stop people vaping?" was a hot topic in 2019, so we proposed a solution: a stationary device that detects when a person brings a juul close to their face and shoots the person with water, or any liquid of choice. For the hardware, I used an arduino connected to 2 servos to control the spray head. I used the C# .NET framework to set up a windows forms application for calibrating and controlling the system. I used OpenCV to train a CascadeClassifier to recognize a Juul, and detected when the Juul would intersected with the face detection CascadeClassifier. A webcam was connected to the computer running the C# code, and we converted the positional data of the </p>
+<ul>
+  <li><h6>Hardware:</h6> Arduino connected to 2 servos, and an electronic spray head.</li>
+</ul>
