@@ -38,6 +38,6 @@ images:
 </ul>
 <h3>Software:</h3>
 <ul>
-  <li><b>Hardware:</b> Arduino connected to 2 servos, an electronic spray head and a webcam connected to a computer.</li>
+  <li><b>Hardware:</b> Arduino connected to 2 servos, an electronic spray head and a webcam connected to a computer. yay</li>
   <li><b>Software:</b> C# .NET Windows Forms App for calibrating and using OpenCV for facial and Juul recognition.</li>
 </ul>
