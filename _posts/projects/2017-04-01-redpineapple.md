@@ -20,10 +20,10 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/redpineapple/FacialRecognitionCapture.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
+    url: "/assets/images/projects/redpineapple/JuulandFace.png"
     alt: "Red Pineapple website on a desktop device"
   - image:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
