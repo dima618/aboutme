@@ -26,7 +26,7 @@ images:
     url: "/assets/images/projects/redpineapple/JuulandFace.PNG"
     alt: "Red Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
+    url: "/assets/images/projects/redpineapple/desktop.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
 <p style="padding: 0 0 2rem;">"How can we stop people from vaping?" was a hot topic in 2019, so we proposed a solution: a stationary device that detects when a person brings a juul close to their face and shoots the person with water, or any liquid of choice. This was acomplished by a camera, and a rotating spray head that would aim at the person within the camera's view and shoot them with water if necessary.</p>
