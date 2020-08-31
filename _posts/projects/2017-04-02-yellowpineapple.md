@@ -16,7 +16,7 @@ project:
 agency:
   title: "Yellow Pineapple Co"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017, 2018"
+  year: "2019"
 
 images:
   - image:
