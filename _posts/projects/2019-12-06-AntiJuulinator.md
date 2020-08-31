@@ -10,7 +10,7 @@ project:
   title: "Anti Juulinator"
   type: "The high tech solution to nicotine addiction"
   url: "https://github.com/dima618/JuulRecognizer"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/redpineapple/juul-graphic2.jpg"
   tech: "C#, Arduino, OpenCV"
 
 agency:
