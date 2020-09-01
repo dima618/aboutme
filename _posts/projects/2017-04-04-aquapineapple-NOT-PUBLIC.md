@@ -1,15 +1,15 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: projects__
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: ""
 
 project:
   title: "Automated Repository Tester"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: ""
   logo: "/assets/images/projects/aquapineapple/logo.png"
   tech: "C#, .NET Framework"
 
