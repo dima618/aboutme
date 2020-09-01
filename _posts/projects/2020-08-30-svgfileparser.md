@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "SVG to Vectors Converter"
+  title: "SVG to Vector Converter"
   type: "Library to convert an SVG to a list of vectors"
   url: ""
   logo: "/assets/images/projects/yellowpineapple/logo.png"
@@ -20,14 +20,8 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgjNkgXAw2LvcCQxy6i1TWuIVgZfqajYklvw&usqp=CAU"
+    alt: "SVG"
 ---
 <p style="padding: 0 0 2rem;">Customers of IPG requested support for SVG files, and there weren't any quick solutions online that would allow us to convert an SVG into the format we needed. </p>
 <h2>My Part</h2>
