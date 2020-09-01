@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects__
+category: projects
 
 meta:
   keywords: ""
