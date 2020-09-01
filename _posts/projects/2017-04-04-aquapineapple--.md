@@ -29,6 +29,6 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: "Aqua Pineapple website on a mobile device"
 ---
-<p style="padding: 0 0 2rem;">Customers of IPG requested support for SVG files, and there weren't any quick solutions online that would allow us to convert an SVG into the format we needed. </p>
+<p style="padding: 0 0 2rem;">My supervisor at IPG has an ongoing project that I am lucky to be a part of. We are developing a program for automatically pulling and testing commits made to the company repository. The program acts as a safety net for all of the developers, and saves us tons of time on testing before a release.</p>
 <h2>My Part</h2>
-<p style="padding: 0 0 2rem;">I developed a library that parsed an SVG file and converted it into a list of vectors for use with our software products. My library read through the XML and constructed a tree of shape nodes with the shape properties. I then used depth first traversal in order to create each shape from the specified properties, and combine everything into one list of vectors. The tree structure was needed because SVG files have group nodes that group shapes, or other group nodes together.</p>
+<p style="padding: 0 0 2rem;">I worked on adding tests for the software that I have been responsible for maintaining and updating so far. Testing each software requires a different approach, so I am</p>
