@@ -7,11 +7,11 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Aqua Pineapple"
+  title: "Automated Repository Tester"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/aquapineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "C#, .NET Framework"
 
 agency:
   title: "Aqua Pineapple Co"
