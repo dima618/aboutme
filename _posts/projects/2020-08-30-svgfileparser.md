@@ -23,7 +23,7 @@ images:
     url: "/assets/images/projects/yellowpineapple/2020.svg"
     alt: "SVG"
   - image:
-    url: "/assets/images/projects/yellowpineapple/IPG-SVG.png"
+    url: "/assets/images/projects/yellowpineapple/IPG-SVG.PNG"
     alt: "SVG after it's converted"
 ---
 <p style="padding: 0 0 2rem;">Customers of IPG requested support for SVG files, and there weren't any quick solutions online that would allow us to convert an SVG into the format we needed. </p>
