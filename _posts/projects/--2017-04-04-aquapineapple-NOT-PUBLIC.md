@@ -29,6 +29,6 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: "Aqua Pineapple website on a mobile device"
 ---
-<p style="padding: 0 0 2rem;">My supervisor at IPG has an ongoing project that I am lucky to be a part of. We are developing a program for automatically pulling and testing commits made to the company repository. The program acts as a safety net for all of the developers, and saves us tons of time on testing before a release.</p>
+<p style="padding: 0 0 2rem;">My supervisor at IPG has an ongoing project that I am lucky to be a part of. We are developing a program for automatically pulling and testing commits made to the company repository. Apart from building each solution, the system installs and runs each new commit of a software, then if necessary it tests the software using our laser controllers. The program acts as a safety net for all of the developers, and saves us tons of time on testing before a release.</p>
 <h2>My Part</h2>
-<p style="padding: 0 0 2rem;">I have been working on adding tests for the software that I have been responsible for maintaining and updating over the course of my internship. Testing each software requires a different approach, so automated tests have to be coded specifically for each software. Apart from building each solution, the system installs and runs each new commit of a software, then if necessary...</p>
+<p style="padding: 0 0 2rem;">I have been working on adding tests for the software that I have been responsible for maintaining and updating over the course of my internship. Testing each software requires a different approach, so automated tests have to be coded specifically for each software.</p>
