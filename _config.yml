@@ -11,7 +11,7 @@ linkedin: "https://linkedin.com/in/dima-ilin"
 github: "https://github.com/dima618"
 
 # Site config
-baseurl: "/aboutme"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
