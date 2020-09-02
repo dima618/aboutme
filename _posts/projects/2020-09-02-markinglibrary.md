@@ -10,7 +10,7 @@ project:
   title: "User-end Laser Library"
   type: "Library provided to customers of IPG for interacting with laser."
   url: "https://github.com/dima618/JuulRecognizer"
-  logo: "/assets/images/projects/redpineapple/juul-graphic2.jpeg"
+  logo: "/assets/images/projects/library/depositphotos_33085023-stock-illustration-vector-code-editor-icon.jpg"
   tech: "C#, .NET Framework"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: ""
+    url: "/assets/images/projects/library/depositphotos_33085023-stock-illustration-vector-code-editor-icon.jpg"
     alt: ""
   - image:
     url: ""
