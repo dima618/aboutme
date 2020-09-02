@@ -241,10 +241,6 @@
 	}
 }
 
-.project-footer {
-	color: white;	
-}
-
 .project-navigation {
 	background: $color-black;
 	padding: 5rem 0;
@@ -341,6 +337,7 @@
 		display: inline-block;
 		font-size: 1.8rem;
 		position: relative;
+		color: white;
 
 		&:after {
 			content: "";
