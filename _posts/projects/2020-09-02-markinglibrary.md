@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/library/depositphotos_33085023-stock-illustration-vector-code-editor-icon.jpg"
+    url: "/assets/images/projects/library/code2.png"
     alt: ""
   - image:
     url: ""
