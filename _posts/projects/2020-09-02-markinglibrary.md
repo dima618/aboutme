@@ -21,8 +21,8 @@ agency:
 images:
 
   - image:
-    url: ""
-    alt: ""
+    url: "/assets/images/projects/library/laser_image.png"
+    alt: "IPG Marker"
   - image:
     url: "/assets/images/projects/library/code2.png"
     alt: ""
