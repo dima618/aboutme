@@ -19,14 +19,12 @@ agency:
   year: "2019"
 
 images:
+
+  - image:
+    url: ""
+    alt: ""
   - image:
     url: "/assets/images/projects/library/code2.png"
-    alt: ""
-  - image:
-    url: ""
-    alt: ""
-  - image:
-    url: ""
     alt: ""
 ---
 <p style="padding: 0 0 2rem;">As one of their software products, IPG offers a library for customers to program and automate their own processes with their lasers. The library includes helpful functions and tools for connecting to the laser and outputting various graphics and welds with it.</p>
