@@ -7,9 +7,9 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "End-User Laser Library"
+  title: "End-User Laser Marking Library"
   type: "Library provided to customers of IPG for interacting with laser."
-  url: "https://github.com/dima618/JuulRecognizer"
+  url: "http://dimailin.me/markinglibrary/"
   logo: "/assets/images/projects/library/depositphotos_33085023-stock-illustration-vector-code-editor-icon.jpg"
   tech: "C#, .NET Framework"
 
